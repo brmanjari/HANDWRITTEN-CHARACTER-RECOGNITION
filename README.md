@@ -1,3 +1,4 @@
+#HANDWRITTEN CHARACTER RECOGNITION
 ✍️ Handwritten Alphabet Recognition with CNN
 🧾 Project Overview
 This project implements a Convolutional Neural Network (CNN) using Keras to classify handwritten English alphabet characters (A–Z). The model is trained on the A–Z Handwritten Data dataset, which contains labeled grayscale images of handwritten characters.
